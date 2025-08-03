@@ -21,7 +21,7 @@ export default function Home() {
           🔐 Auth
         </h1>
         <p className='text-white text-lg'>A simple authentication service</p>
-        <div className='flex gap-4'>
+        <div className='flex justify-center gap-4'>
           <LoginButton>
             <Button className='btn btn-primary' variant='secondary' size='lg'>
               Sign in
